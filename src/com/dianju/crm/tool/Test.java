@@ -12,6 +12,12 @@ public class Test {
         System.out.print("江涛2");
         System.out.print("江涛3");
 
+
+        System.out.print("new1");
+        System.out.print("new2");
+        System.out.print("new3");
+
+
         System.out.print("mm1");
     }
 }
