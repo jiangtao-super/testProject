@@ -11,5 +11,7 @@ public class Test {
         System.out.print("江涛1");
         System.out.print("江涛2");
         System.out.print("江涛3");
+
+        System.out.print("mm1");
     }
 }
