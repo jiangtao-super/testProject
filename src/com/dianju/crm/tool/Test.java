@@ -20,8 +20,5 @@ public class Test {
 
         System.out.print("mm1");
 
-        mq121
-
-                12
     }
 }
