@@ -16,7 +16,7 @@ public class Test {
         System.out.print("new1");
         System.out.print("new2");
         System.out.print("new3");
-
+1
 
         System.out.print("mm1");
         System.out.print("mmm1123");
