@@ -22,6 +22,6 @@ public class Test {
 
         mq121
 
-                1
+                12
     }
 }
