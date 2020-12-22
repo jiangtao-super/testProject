@@ -6,5 +6,6 @@ public class Test {
         System.out.print("jiangtao1");
         System.out.print("jiangtao2");
         System.out.print("m2");
+        System.out.print("maste1");
     }
 }
